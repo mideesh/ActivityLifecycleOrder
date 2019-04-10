@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestApplication</string>
+    <string name="activity_a">Activity A</string>
+    <string name="activity_b">Activity B</string>
+    <string name="activity_b_with_fragment">Activity B with fragment</string>
+    <string name="frag_content">See the log for activity and fragment lifecycle order</string>
+    <string name="actB_content">See the log for activity lifecycle order</string>
+</resources>
